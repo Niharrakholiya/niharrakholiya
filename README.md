@@ -54,21 +54,13 @@
 
 ---
 
-### 🌟 Featured Projects
 
-<!-- You can add your featured projects here -->
-<!-- Example:
-1. [Project Name](GitHub Repo Link) - Short description
-2. [Another Project](GitHub Repo Link) - Short description
--->
-
----
 
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-  <a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nihar-rakholiya-554b26253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
+  <a href="https://twitter.com/niharrakholiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
 </p>
 
 ---
