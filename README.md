@@ -9,7 +9,6 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I'm currently learning **React**
 - 🎓 3rd year Computer Engineering student
 - 💼 Aspiring to become a full-stack developer
 - 📫 How to reach me: **nihar.rakholiya526@gmail.com**
