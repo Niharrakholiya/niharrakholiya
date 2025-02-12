@@ -1,0 +1,32 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate and Push 3D Contribution Graph
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.9.2
+        with:
+          username: Niharrakholiya
+          base_path: profile-3d-contrib
+          background: "141321" # Dark theme background
+          theme: "night-rainbow" # Color theme
+          max_week: 52
+          animation: "true"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add profile-3d-contrib/
+          git commit -m "Updated 3D Contribution Graph"
+          git push
