@@ -15,6 +15,10 @@ on:
     branches:
     - main
 
+# Add permissions for the GITHUB_TOKEN
+permissions:
+  contents: write
+
 jobs:
   # This workflow contains a single job called "build"
   build:
