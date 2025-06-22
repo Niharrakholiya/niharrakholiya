@@ -77,7 +77,7 @@ const nihar = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niharrakholiya&repo=your-awesome-project&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Niharrakholiya/leafcare)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niharrakholiya&repo=Leafcare&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Niharrakholiya/leafcare)
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=niharrakholiya&repo=peerspace&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)](https://github.com/Niharrakholiya/peerspace)
 
 </div>
