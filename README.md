@@ -111,7 +111,11 @@ const nihar = {
 ## <img src="https://media.giphy.com/media/jp8lWlBjGahPFAljBa/giphy.gif" width="30"> **Contribution Snake**
 
 <div align="center">
-  <img src="https://github.com/niharrakholiya/niharrakholiya/blob/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niharrakholiya/niharrakholiya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niharrakholiya/niharrakholiya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/niharrakholiya/niharrakholiya/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
